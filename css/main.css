@@ -1,0 +1,272 @@
+
+
+body {
+    background-color: #7aa095;
+    color: #defffc;
+ 
+}
+.container{
+    margin: 0 auto;
+    padding: 0;
+    
+}
+h1 {
+    color: #afbc88;
+    font-size: 50px;
+    font-family: Courier New;
+}
+p {
+    font-family: Verdana;
+    font-size: 14px;
+    line-height: 1.25;
+    margin-bottom: 1em;
+}
+
+
+div {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.first {
+    color: #afbc88;
+    font-weight: bold;
+    border-left: 5px solid beige;
+}
+
+.text{
+      flex-direction: column;
+
+}
+.img{
+    display: flex;
+    Width: 550;
+        display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+
+.container {
+    width: 1040px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.read {
+    width: 440px;
+}
+
+.center {
+    justify-content: space-around;
+}
+
+.var {
+    width: 180px;
+    justify-content: space-around;
+}
+
+.paragr {
+    width: 440px;
+}
+
+.top {
+    width: 440px;
+}
+nav{
+    width: 960px;
+}
+.logo{
+    margin-left: 30px;
+    padding: 10px;
+}
+
+.bigmoon{
+    width: 440px;
+padding-left: 40px;
+    padding-right: 40px;
+
+}
+section{
+    display: flex;
+}
+.main-nav{
+    
+    display: flex;
+}
+.site-menu{
+    font-family: Verdana;
+    font-size: 14px;
+    text-decoration: none; 
+}
+.about-us{
+  padding-left: 30px;
+    padding-right: 30px;
+padding-top: 60px;
+    margin-left: 30px;
+    display: flex;
+  
+    flex-wrap: wrap;
+}
+a{
+     color:#defffc; 
+     font-size: 14px;
+     font-family: Verdana;
+     text-decoration: none;
+   }
+
+
+.feature-made-in-russia{
+ 
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 44px;
+    padding-bottom: 44px;
+}
+.feature-pilots{
+    
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 44px;
+    padding-bottom: 44px;
+}
+.feature-food{
+     
+    padding-top: 44px;
+    padding-bottom: 44px;
+    padding-left: 40px;
+    padding-right: 40px;}
+.feature-moon-rover{
+    padding-top: 44px;
+    margin-right: 40px;
+    padding-bottom: 44px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.left-column{
+    margin-top: 20px;
+    margin-left: 38px;
+    padding-left: 38px;
+    padding-right: 38px;
+    margin-bottom: 20px;
+}
+.right-column{
+     margin-bottom: 20px;             
+    margin-right: 38px;
+        padding-left: 38px;
+    padding-right: 38px;
+    margin-top: 20px;
+}
+}
+.ul{
+    list-style-type: none;
+}
+.recommendations{
+    background-color: #afbc88 ;
+    color: #40531b;
+}
+.moon-vacation{
+    padding-top: 20px;
+    background-color:#afbc88 ;
+    color: #40531b;
+}
+.left-column1{
+       margin-bottom: 20px;
+    margin-left: 38px;
+    padding-right: 38px;
+}
+.right-column1{
+            margin-bottom: 20px;
+    padding-left: 38px;
+        margin-right: 38px;
+    padding-right: 38px;
+}
+.color{
+list-style-type: disc;
+color: #40531b;
+       }
+span{
+    color: #40531b;
+}
+.moon1{
+    display: flex;
+    flex-wrap: nowrap;
+
+}
+.overlay{
+    width: 19px;
+    height: 16px;
+}
+.picture{
+    width: 240px;
+    height: 50px;
+}
+.footer-columns-container{
+    display: flex;
+    margin-top: 80px;
+
+}
+.q{
+margin-left: 20px;
+margin-right: 20px;
+}
+.qq{
+margin-left: 20px;
+margin-right: 20px;
+}
+.qqq{
+margin-left: 20px;
+margin-right: 20px;
+}
+.footer-menu{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    margin-left: 80px;
+}
+.footer-submenu{
+    padding-left: 0px;
+    font-size: 13px;
+    font-family: Verdana;
+
+}
+.w{
+    padding: 10px;
+}
+.footer-submenu-title{
+margin-bottom: 10px;
+border-bottom: 100px #40531b;
+
+}
+.company-title{
+    color: white;
+}
+.left-column3{
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    margin-left: 30px;
+}
+.company-title{
+    padding-left: 10px;
+    margin-bottom: 20px;
+}
+.copyrights{
+    margin-top: 100px;
+}
+.right-column2{
+    margin-right: 30px;
+}
+
+a:hover{
+    color:grey;
+}
+button{
+    background-color: #afbc88;
+    border-radius: 25px;
+    width:220px;
+}
+.focus{
+        color:;
+    }
